@@ -77,7 +77,7 @@ menggunakan command `tcp.port == 80` sehingga wireshark hanya mengambil paket pa
 ![soal 11 - screenshot 1](https://media.discordapp.net/attachments/889487853267083274/890921561526251580/unknown.png)  
 
 ## 12. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
-menggunakan command `tcp.port == 21` sehingga wireshark hanya mengambil paket pada port 21  
+menggunakan command `tcp.port == 21` sehingga wireshark hanya mengambil paket pada port 21. Dikarenakan port 21 sedang tidak terpakai sehingga wireshark tidak mengcapture paket apapun. 
 ![soal 12 - screenshot 1](https://cdn.discordapp.com/attachments/889487853267083274/890921957619548180/unknown.png)  
 
 ## 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
